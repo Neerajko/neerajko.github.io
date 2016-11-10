@@ -19,7 +19,7 @@ Optimized the pizza/main.js with the help of Chrome DevTools.
 
 You might find the FPS Counter/HUD Display useful in Chrome developer tools described here: [Chrome Dev Tools tips-and-tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks).
 
-## My Optimizations
+### My Optimizations
 
 Web Page Optimizer:
 
