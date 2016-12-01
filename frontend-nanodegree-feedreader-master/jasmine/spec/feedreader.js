@@ -87,7 +87,7 @@ $(function() {
         });
         it('are inside the feed on loadFeed', function() {
             var numberOfEntries = $('.feed').find('.entry').length;
-            expect(numberOfEntries).toBeGreaterThan(0);
+            expect(numberOfEntries).toBeTruthy();
         });
     });
     /* TODO: Write a new test suite named "New Feed Selection"*/
